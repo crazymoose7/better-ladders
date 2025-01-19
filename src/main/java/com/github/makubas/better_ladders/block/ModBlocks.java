@@ -13,9 +13,9 @@ import net.minecraft.util.Identifier;
 public class ModBlocks {
 
     private static final Block IRON_LADDER =  registerBlock("iron_ladder", new IronLadderBlock());
-    private static final Block GOLD_LADDER = registerBlock("gold_ladder", new IronLadderBlock());
-    private static final Block DIAMOND_LADDER =registerBlock("diamond_ladder", new IronLadderBlock());
-    private static final Block NETHERITE_LADDER = registerBlock("netherite_ladder", new IronLadderBlock());
+    private static final Block GOLD_LADDER = registerBlock("gold_ladder", new GoldLadderBlock());
+    private static final Block DIAMOND_LADDER =registerBlock("diamond_ladder", new DiamondLadderBlock());
+    private static final Block NETHERITE_LADDER = registerBlock("netherite_ladder", new NetheriteLadderBlock());
 
     private static Block registerBlock(String name, Block block) {
         registerBlockItem(name, block);
