@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "betlad:iron_ladder",
+    "betlad:gold_ladder",
+    "betlad:diamond_ladder",
+    "betlad:netherite_ladder"
+  ]
+}
