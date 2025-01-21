@@ -1,13 +1,20 @@
 # Better Ladders
 
-A [minecraft mod](https://www.curseforge.com/minecraft/mc-mods/better-ladders) that extends ladders section.
-Each ladder has now its own **3D model**!
+Note this is a continuation of this [seemlying abandoned project](https://www.curseforge.com/minecraft/mc-mods/better-ladders). 
 
-It adds **4 NEW** ladder types:
-* Iron
-* Gold
-* Diamond
-* Netherite
+This mod adds:
 
-You can change each one's speed in *ConfigFile*. By default, wood ladders are 100% speed, and each better one add +50%
-speed of the wood one.
+3D ladders models <br>
+4 New ladder types <br>
+Changeable (in config) ladder speed
+
+New ladder types:
+
+Iron - 1.5 times faster than wooden <br>
+Gold - 2 times faster than wooden <br>
+Diamond - 2.5 times faster than wooden <br>
+Netherite - 3 times faster than wooden <br>
+
+
+
+To make a higher tier ladder you need the previous one.
